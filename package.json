@@ -1,6 +1,6 @@
 {
   "name": "cra-template-so-stndrd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Basic cra-template cleaned up and ready to use with node-sass, normalize.css and react-router-dom.",
   "repository": "https://github.com/SO-JIMM/cra-template-so-stndrd",
   "keywords": [

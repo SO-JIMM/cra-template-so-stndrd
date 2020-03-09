@@ -1,4 +1,9 @@
-@import './base/settings';
+@import './base/variables';
 @import './base/base';
+@import './app';
 
-@import './components/App';
+// Components
+@import './components/header';
+
+// Pages
+@import './pages/home';

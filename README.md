@@ -1,3 +1,3 @@
-# cra-template-so-stndrd
+# cra-template-so-cro
 
-The standard cra-template cleaned up and ready to use with sass, normalize.css and react-router-dom.
+The standard cra-template cleaned up and ready to use with sass, firebase, reach/slider, normalize.css, react-router-dom, and other personal preferences.
